@@ -10,7 +10,7 @@ I am a developer focused on building full stack web applications using the MERN 
 
 - Currently learning: Full Stack Web Development (MERN) and AI/LLM APIs
 - Interested in: Software Engineering, Web Development, Applied AI
-- Contact: your-email@example.com
+- Contact: your-shyamalitiwari1978@gmail.com
 
 ---
 
